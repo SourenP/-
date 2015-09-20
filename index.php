@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 
+  <link rel="stylesheet" href="stylesheet.css" type="text/css">
   <link rel="icon" href="favicon.png" type="image/png">
   <title> Ramen CU </title>
 
   <body>
 
     <center>
-      <div style="margin-top: 100px; font-family: Courier new; font-size: 36px;">
-        <img src="pig.png" alt="pig" height="100" width="100">
-        <p> Email us at <a href="mailto:ramencolumbia@gmail.com" target="_top">ramencolumbia@gmail.com</a></p>
-        <p> <i> serious inquiries only </i> </p>
+      <div class="errythang">
+        <img src="xn--eo8h.png" alt="pig" class="logoo" onmouseover="this.src='xn--eo8h_2.png';" onmouseout="this.src='xn--eo8h.png';">
+        <p> <a href="mailto:ramencolumbia@gmail.com" target="_top">ramencolumbia@gmail.com</a></p>
       </div>
     <center>
 
