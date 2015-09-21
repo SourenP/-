@@ -11,15 +11,15 @@ and (max-device-width: 480px)
 
   .logoo {
     margin-top: 200px;
-    height: 360px;
-    width: 360px;
+    height: 300px;
+    width: 300px;
   }
 
 }
 
 /* Smartphones */
 @media only screen
-and (min-width: 1224px)
+and (min-width: 1000px)
 {
   .errythang {
     margin-top: 100px;
@@ -28,7 +28,7 @@ and (min-width: 1224px)
   }
 
   .logoo {
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
   }
 }

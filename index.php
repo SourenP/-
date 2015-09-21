@@ -9,7 +9,7 @@
 
     <center>
       <div class="errythang">
-        <img src="xn--eo8h.png" alt="pig" class="logoo" onmouseover="this.src='xn--2i8h.png';" onmouseout="this.src='xn--eo8h.png';">
+        <img src="pig.png" alt="pig" class="logoo">
         <p> <a href="mailto:ramencolumbia@gmail.com" target="_top">ramencolumbia@gmail.com</a></p>
       </div>
     <center>
