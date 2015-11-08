@@ -22,7 +22,6 @@
       $fp = fopen($file, 'a');
       fwrite($fp, date("l jS \of F Y h:i:s A") . "\t" . $ipaddress);
       fclose($fp);
-      mail('souren@papazian.info', 'Visit', date("l jS \of F Y h:i:s A") . "\t" . $ipaddress);
     ?>
 
   </body>
