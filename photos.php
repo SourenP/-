@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <title> Photos </title>
+      <title> photos </title>
         <link rel='stylesheet' type='text/css' href='stylesheet.css'/>
 	      <link rel="shortcut icon" type="image/gif" href="./images/pig.gif"/>
     </head>
