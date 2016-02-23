@@ -7,24 +7,13 @@
     </head>
     <body class='section-1'>
 
-      <div id='menu'>
-        <div class='container'>
-
-          <p><img src="./images/circle.png" id="profile"><br/></p>
-
-          <ul>
-            <li><a href=''>Info</a></li>
-            <li><a href=''>Contact</a></li>
-          </ul>
-
-        </div>
-      </div>
+      <?php include("menu.php"); ?>
 
       <div id='content'>
         <div class='container'>
 
           <div id='img-container'>
-            <div><img src='./images/pigs.jpg'/><p>&nbsp;</p></div>
+            <div><img src='./images/shouner.jpg'/><p>&nbsp;</p></div>
           </div>
 
         </div>

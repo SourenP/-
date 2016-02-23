@@ -39,7 +39,7 @@ a img { border: none; }
     background-color: #fff;
 }
 
-#menu ul {
+ul {
         list-style: none;
         margin: 0 0 12px 1px;
 }
