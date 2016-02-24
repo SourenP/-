@@ -9,6 +9,7 @@
       <li><a href='./photos.php'>photos</a></li>
       <br>
       <a href="http://instagram.com/youngtableau" target="_blank">instagram</a><br>
+      <a href="http://github.com/sourenp" target="_blank">github</a><br>
       <a href="mailto:souren@papazian.info">email</a></div>
     </ul>
 
