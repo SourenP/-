@@ -11,7 +11,8 @@
                         "shouner.jpg",
                         "win.png",
                         "wind.gif",
-                        "mononoke.gif"]
+                        "mononoke.gif",
+                        "panjarchiga.gif"]
             var rando = favs[Math.floor(Math.random() * favs.length)];
             document.getElementById("fav").src="./images/" + rando;
           }
