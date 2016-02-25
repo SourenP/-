@@ -4,6 +4,18 @@
       <title> souren </title>
         <link rel='stylesheet' type='text/css' href='stylesheet.css'/>
 	      <link rel="shortcut icon" type="image/gif" href="./images/pig.gif"/>
+        <script type="text/javascript">
+          window.onload = function() {
+            var favs = ["butt.gif",
+                        "game.gif",
+                        "shouner.jpg",
+                        "win.png",
+                        "wind.gif",
+                        "mononoke.gif"]
+            var rando = favs[Math.floor(Math.random() * favs.length)];
+            document.getElementById("fav").src="./images/" + rando;
+          }
+        </script>
     </head>
     <body class='section-1'>
 
@@ -12,10 +24,8 @@
       <div id='content'>
         <div class='container'>
 
-          <p> Moukh and Noush </p>
-
           <div id='img-container'>
-            <div><img src='./images/shouner.jpg'/><p>&nbsp;</p></div>
+            <div><img id="fav" src=''/><p>&nbsp;</p></div>
           </div>
 
         </div>

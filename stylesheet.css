@@ -76,3 +76,7 @@ h4 { font-size: 12px; }
 #profile {
   width: 80%;
 }
+
+#fav {
+  width: 600px;
+}
