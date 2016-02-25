@@ -12,7 +12,7 @@
       <div id='content'>
         <div class='container'>
 
-          []
+          Coming soon!
 
         </div>
       </div>
