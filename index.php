@@ -24,6 +24,8 @@
       <div id='content'>
         <div class='container'>
 
+          <p> So nice </p>
+
           <div id='img-container'>
             <div><img id="fav" src=''/><p>&nbsp;</p></div>
           </div>
