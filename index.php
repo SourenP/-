@@ -2,8 +2,8 @@
 <html>
     <head>
       <title> souren </title>
-        <link rel='stylesheet' type='text/css' href='stylesheet.css'/>
-	      <link rel="shortcut icon" type="image/gif" href="./images/pig.gif"/>
+        <link rel='stylesheet' type='text/css' href='http://xn--eo8h.ws/stylesheet.css'/>
+	      <link rel="shortcut icon" type="image/gif" href="http://xn--eo8h.ws/images/pig.gif"/>
         <script type="text/javascript">
           window.onload = function() {
             var favs = ["butt.gif",
@@ -13,13 +13,13 @@
                         "wind.gif",
                         "mononoke.gif"]
             var rando = favs[Math.floor(Math.random() * favs.length)];
-            document.getElementById("fav").src="./images/" + rando;
+            document.getElementById("fav").src="http://xn--eo8h.ws/images/" + rando;
           }
         </script>
     </head>
     <body class='section-1'>
 
-      <?php include("menu.php"); ?>
+      <?php include("./menu.php"); ?>
 
       <div id='content'>
         <div class='container'>

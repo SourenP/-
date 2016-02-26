@@ -1,11 +1,3 @@
-/*
-* CSS
-*
-* @version 1.0
-* @author Vaska
-* @author Gregory Cadar
-*/
-
 * {
         margin: 0;
         padding: 0;
@@ -57,7 +49,7 @@ ul {
     padding: 10px 5px 25px 10px;
 }
 
-#content p { width: 400px; margin-bottom: 9px; }
+#content p { width: 600px; margin-bottom: 9px; }
 
 p {
     margin: 0 0 9px 0;
@@ -79,4 +71,8 @@ h4 { font-size: 12px; }
 
 #fav {
   width: 600px;
+}
+
+.photo-container {
+   margin-bottom: 200px;
 }
