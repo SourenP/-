@@ -7,7 +7,7 @@
     </head>
     <body class='section-1'>
 
-      <?php include("http://xn--eo8h.ws/menu.php"); ?>
+      <?php include("../menu.php"); ?>
 
       <div id='content'>
         <div class='container'>
