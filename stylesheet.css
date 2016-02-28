@@ -76,3 +76,13 @@ h4 { font-size: 12px; }
 .photo-container {
    margin-bottom: 200px;
 }
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    body {
+      font-size: 22px!important;
+    }
+}
