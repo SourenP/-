@@ -77,12 +77,12 @@ h4 { font-size: 12px; }
    margin-bottom: 200px;
 }
 
-/* Portrait */
+/* Mobile font size */
 @media only screen
-  and (min-device-width: 375px)
-  and (max-device-width: 667px)
+  and (min-device-width: 300px)
+  and (max-device-width: 700px)
   and (-webkit-min-device-pixel-ratio: 2) {
-    body {
+    * {
       font-size: 22px!important;
     }
 }
