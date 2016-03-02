@@ -16,6 +16,14 @@
           <br>
 
           <div class='photo-container'>
+            <div><img src='http://xn--eo8h.ws/photos/images/M01P06.png'/><p>&nbsp;</p></div>
+          </div>
+
+          <div class='photo-container'>
+            <div><img src='http://xn--eo8h.ws/photos/images/M01P05.png'/><p>&nbsp;</p></div>
+          </div>
+
+          <div class='photo-container'>
             <div><img src='http://xn--eo8h.ws/photos/images/M01P01.png'/><p>&nbsp;</p></div>
           </div>
           <div class='photo-container'>
@@ -24,6 +32,7 @@
           <div class='photo-container'>
             <div><img src='http://xn--eo8h.ws/photos/images/M01P03.png'/><p>&nbsp;</p></div>
           </div>
+
           <div class='photo-container'>
             <div><img src='http://xn--eo8h.ws/photos/images/M01P04.png'/><p>&nbsp;</p></div>
           </div>
