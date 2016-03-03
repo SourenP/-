@@ -7,6 +7,7 @@
       <li><a href='http://xn--eo8h.ws/index.php'>home</a></li>
       <li><a href='http://xn--eo8h.ws/lists.php'>lists</a></li>
       <li><a href='http://xn--eo8h.ws/photos'>photos</a></li>
+      <li><a href='http://xn--eo8h.ws/misc'>misc</a></li>
       <br>
       <a href="http://instagram.com/youngtableau" target="_blank">instagram</a><br>
       <a href="http://github.com/sourenp" target="_blank">github</a><br>
