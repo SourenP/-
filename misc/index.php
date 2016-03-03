@@ -13,7 +13,7 @@
         <div class='container'>
 
           <ul>
-            <li><a href='http://xn--eo8h.ws/photos/porsche.php'>Porsche 930 Turbo</a></li>
+            <li><a href='http://xn--eo8h.ws/misc/porsche.php'>Porsche 930 Turbo</a></li>
           </ul>
 
         </div>
