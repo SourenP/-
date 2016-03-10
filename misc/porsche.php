@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <title> Porsche </title>
+      <title> Porsche 930 Turbo </title>
         <link rel='stylesheet' type='text/css' href='http://xn--eo8h.ws/stylesheet.css'/>
 	      <link rel="shortcut icon" type="image/gif" href="http://xn--eo8h.ws/images/pig.gif"/>
     </head>
