@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <title> photos </title>
+      <title> artsakh 2016 </title>
         <link rel='stylesheet' type='text/css' href='http://xn--eo8h.ws/stylesheet.css'/>
 	      <link rel="shortcut icon" type="image/gif" href="http://xn--eo8h.ws/images/pig.gif"/>
     </head>
@@ -12,14 +12,12 @@
       <div id='content'>
         <div class='container'>
 
-          <div class='img-container'>
-            <div><img src='http://xn--eo8h.ws/images/olympus.jpg'/></div>
-          </div>
+          <p> Artsakh 2016 </p>
           <br>
-          <ul>
-            <li><a href='http://xn--eo8h.ws/photos/february_2016.php'>2016 February</a></li>
-            <li><a href='http://xn--eo8h.ws/photos/artsakh_2016.php'>2016 Artsakh</a></li>
-          </ul>
+
+          <div class='photo-container'>
+            <div><img src='http://xn--eo8h.ws/photos/images/A01.jpeg'/><p>&nbsp;</p></div>
+          </div>
 
         </div>
       </div>
