@@ -9,6 +9,7 @@
       <li><a href='http://xn--eo8h.ws/lists.php'>lists</a></li>
       <li><a href='http://xn--eo8h.ws/photos'>photos</a></li>
       <li><a href='http://xn--eo8h.ws/writing'>writing</a></li>
+      <li><a href='http://xn--eo8h.ws/videos'>videos</a></li>
       <li><a href='http://xn--eo8h.ws/misc'>misc</a></li>
       <br>
       <a href="http://instagram.com/youngtableau" target="_blank">instagram</a><br>
