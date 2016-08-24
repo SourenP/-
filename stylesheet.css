@@ -41,7 +41,7 @@ ul {
 
 #content {
     height: 100%;
-    margin: 0 0 0 160px;
+    float: left;
     top: 0;
 }
 
