@@ -14,7 +14,7 @@
 
           <ul>
             <li><a href='http://xn--eo8h.ws/writing/villains_concert.php'>Villain's Concert</a></li>
-            <li><a href='http://xn--eo8h.ws/writing/.php'>Artsakh</a></li>
+            <li><a href='http://xn--eo8h.ws/writing/three_men.php'>Artsakh</a></li>
           </ul>
 
         </div>
