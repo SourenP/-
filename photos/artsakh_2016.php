@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-      <title> artsakh 2016 </title>
+      <title> artsakh </title>
         <link rel='stylesheet' type='text/css' href='http://xn--eo8h.ws/stylesheet.css'/>
 	      <link rel="shortcut icon" type="image/gif" href="http://xn--eo8h.ws/images/pig.gif"/>
     </head>
@@ -12,7 +12,7 @@
       <div id='content'>
         <div class='container'>
 
-          <p> Artsakh 2016 </p>
+          <p> Artsakh </p>
           <br>
 
           <div class='photo-container'>

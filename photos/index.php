@@ -17,8 +17,9 @@
           </div>
           <br>
           <ul>
-            <li><a href='http://xn--eo8h.ws/photos/february_2016.php'>2016 February</a></li>
-            <li><a href='http://xn--eo8h.ws/photos/artsakh_2016.php'>2016 Artsakh</a></li>
+            <li><a href='http://xn--eo8h.ws/photos/february_2016.php'>February 2016</a></li>
+            <li><a href='http://xn--eo8h.ws/photos/artsakh_2016.php'>Artsakh</a></li>
+            <li><a href='http://xn--eo8h.ws/photos/high_sierra.php'>High Sierra</a></li>
           </ul>
 
         </div>
