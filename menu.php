@@ -1,4 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=0">
+<meta name="viewport" content="width=900px, initial-scale=0">
 <div id='menu'>
   <div class='container'>
 
