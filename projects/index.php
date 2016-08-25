@@ -13,9 +13,10 @@
         <div class='container'>
 
           <ul>
-            <li><a target="_blank" href='https://vortan.github.io/'>Vortan</a></li>
-            <li><a target="_blank" href='https://github.com/apollo-lang/apollo'>Apollo</a></li>
-            <li><a target="_blank" href='http://dzoor.com/'>Dzoor</a></li>
+            <li><a target="_blank" href='https://vortan.github.io/'>Vortan: open-source project aiming to boost the online and digital presence of the Armenian language.</a></li>
+            <li><a target="_blank" href='https://github.com/apollo-lang/apollo'>Apollo: programming language for algorithmic and musical composition.</a></li>
+            <li><a target="_blank" href='http://dzoor.com/'>Dzoor: crowd sourced linguistics site made from scratch</a></li>
+            <li><a target="_blank" href='http://www.tumo.org/en/workshop/158-hack-the-tumo-fountain'>Hack the Fountain: programming workshop at Tumo Yerevan</a></li>
           </ul>
 
         </div>
