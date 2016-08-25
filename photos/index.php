@@ -12,13 +12,14 @@
       <div id='content'>
         <div class='container'>
 
+          <!--
           <div class='img-container'>
             <div><img src='http://xn--eo8h.ws/images/olympus.jpg'/></div>
           </div>
           <br>
+          -->
           <ul>
             <li><a href='http://xn--eo8h.ws/photos/february_2016.php'>February 2016</a></li>
-            <li><a href='http://xn--eo8h.ws/photos/artsakh_2016.php'>Artsakh</a></li>
             <li><a href='http://xn--eo8h.ws/photos/high_sierra.php'>High Sierra</a></li>
           </ul>
 
