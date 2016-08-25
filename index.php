@@ -11,6 +11,7 @@
             document.getElementById("fav").src="http://xn--eo8h.ws/images/" + rando;
           }
         </script>
+        <?php include("./head.php"); ?>
     </head>
     <body class='section-1'>
 

