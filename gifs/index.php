@@ -30,6 +30,22 @@
           <p> Captures </p>
           <br>
 
+          <div class='photo-container'>
+            <div><img src='http://xn--eo8h.ws/gifs/images/mononoke-compressed.gif'/><p>&nbsp;</p></div>
+          </div>
+
+          <div class='photo-container'>
+            <div><img src='http://xn--eo8h.ws/gifs/images/butt-compressed.gif'/><p>&nbsp;</p></div>
+          </div>
+
+          <div class='photo-container'>
+            <div><img src='http://xn--eo8h.ws/gifs/images/game-compressed.gif'/><p>&nbsp;</p></div>
+          </div>
+
+          <div class='photo-container'>
+            <div><img src='http://xn--eo8h.ws/gifs/images/wind-compressed.gif'/><p>&nbsp;</p></div>
+          </div>
+
         </div>
       </div>
 
