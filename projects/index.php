@@ -14,7 +14,7 @@
 
           <ul>
             <li><a target="_blank" href='https://vortan.github.io/'>Vortan</a></li>
-            <li><a target="_blank" href='https://github.com/apollo-lang/apollo'>Appolo</a></li>
+            <li><a target="_blank" href='https://github.com/apollo-lang/apollo'>Apollo</a></li>
             <li><a target="_blank" href='http://dzoor.com/'>Dzoor</a></li>
           </ul>
 
