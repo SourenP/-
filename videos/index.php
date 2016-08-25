@@ -12,16 +12,15 @@
       <div id='content'>
         <div class='container'>
 
-          <br>
-          <div class='img-container'>
+          <div class='photo-container'>
             <iframe src="https://player.vimeo.com/video/175800712" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
-          <br>
-          <div class='img-container'>
+
+          <div class='photo-container'>
             <iframe src="https://player.vimeo.com/video/138535286" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
-          <br>
-          <div class='img-container'>
+
+          <div class='photo-ontainer'>
             <iframe src="https://player.vimeo.com/video/176426168" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
           </div>
 
