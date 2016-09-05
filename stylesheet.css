@@ -4,7 +4,7 @@
 }
 
 body {
-        font-size: 10px;
+        font-size: 12px;
         font-family: "San Francisco", -apple-system, BlinkMacSystemFont, ".SFNSText-Regular", sans-serif;
         background: #fff;
         color: #656565;
@@ -80,7 +80,7 @@ h4 { font-size: 12px; }
 }
 
 .armenian_writing {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 /* Mobile font size */
