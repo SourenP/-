@@ -40,9 +40,6 @@
           <p> Ջուրը լցրինք էս անտակ պղինձը, մեջը ածինք բադն ու բրինձը, անկրակ եփեցինք։ Եփեց, եփեց, միսն ու բրինձը գնացին, մնաց ջուրը։ </p>
           <p> Որսից եկած սոված մարդի՜կ, վրա եկանք, կերա՜նք, կերա՜նք, ոչ աչքներս բան տեսավ, ոչ բերաններս բան մտավ։ </p>
 
-
-          <p> This happened to me on March 10 2016: </p>
-          <p> A and B were in the same highschool class of a 100 in Armenia. A and B move halfway across the world to New York and Vermont and make two friends C and D respectively in college. C and D had happened to meet each other 4 years ago in camp. On a randome day A decides to go through C's snap feed and comes across D's snapstory which on that exact same day happens to include B showing the middle finger. </p>
         </div>
       </div>
 

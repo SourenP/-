@@ -14,6 +14,7 @@
 
           <ul>
             <li><a href='http://xn--eo8h.ws/misc/porsche.php'> Porsche 930 Turbo </a></li>
+            <li><a href='http://xn--eo8h.ws/misc/sutlik.php'> Հովհաննես Թումանյան - Սուտլիկ Որսկանը </a></li>
           </ul>
 
         </div>
