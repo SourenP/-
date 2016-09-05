@@ -10,6 +10,7 @@
 </script>
 <meta name="description" content="Souren Papazian's website">
 <meta name="keywords" content=" Souren, Papazian, Website, Photography, Writing, Lists, Videos, Gifs, Portfolio">
+<meta charset=utf-8>
 
 <div id='menu'>
   <div class='container'>

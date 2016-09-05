@@ -4,7 +4,6 @@
       <title> Հովհաննես Թումանյան - Սուտլիկ Որսկանը</title>
         <link rel='stylesheet' type='text/css' href='http://xn--eo8h.ws/stylesheet.css'/>
 	      <link rel="shortcut icon" type="image/gif" href="http://xn--eo8h.ws/images/pig.gif"/>
-        <meta charset=utf-8>
     </head>
     <body class='section-1'>
 
