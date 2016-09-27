@@ -6,7 +6,7 @@
 	      <link rel="shortcut icon" type="image/gif" href="http://xn--eo8h.ws/images/pig.gif"/>
         <script type="text/javascript">
           window.onload = function() {
-            var favs = ["me.jpg"]
+            var favs = ["moukh.png"]
             var rando = favs[Math.floor(Math.random() * favs.length)];
             document.getElementById("fav").src="http://xn--eo8h.ws/images/" + rando;
           }
@@ -19,7 +19,6 @@
       <div id='content'>
         <div class='container'>
 
-          <p> Hello </p>
           <div id='img-container'>
             <div><img id="fav" src=''/><p>&nbsp;</p></div>
           </div>
