@@ -20,9 +20,10 @@
     <ul>
       <li><a href='http://xn--eo8h.ws/index.php'>home</a></li>
       <li><a href='http://xn--eo8h.ws/photos'>photos</a></li>
-      <li><a href='http://xn--eo8h.ws/writing'>writing</a></li>
-      <li><a href='http://xn--eo8h.ws/videos'>videos</a></li>
       <li><a href='http://xn--eo8h.ws/projects'>projects</a></li>
+      <li><a href='http://xn--eo8h.ws/videos'>videos</a></li>
+      <li><a href='http://xn--eo8h.ws/snaps'>snaps</a></li>
+      <li><a href='http://xn--eo8h.ws/writing'>writing</a></li>
       <li><a href='http://xn--eo8h.ws/gifs'>gifs</a></li>
       <li><a href='http://xn--eo8h.ws/lists'>lists</a></li>
       <li><a href='http://xn--eo8h.ws/misc'>misc</a></li>
