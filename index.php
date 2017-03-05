@@ -6,7 +6,7 @@
 	      <link rel="shortcut icon" type="image/gif" href="http://xn--eo8h.ws/images/pig.gif"/>
         <script type="text/javascript">
           window.onload = function() {
-            var favs = ["moukh.png"]
+            var favs = ["self.JPG"]
             var rando = favs[Math.floor(Math.random() * favs.length)];
             document.getElementById("fav").src="http://xn--eo8h.ws/images/" + rando;
           }
