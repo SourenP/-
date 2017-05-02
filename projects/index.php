@@ -12,19 +12,15 @@
       <div id='content'>
         <div class='container'>
 
-          <p><a target="_blank" href='https://vortan.github.io/'>Vortan</a><br>
-          &emsp;open-source project aiming to boost the online and digital presence of the Armenian language </p>
-          <br>
-
           <p><a target="_blank" href='https://github.com/apollo-lang/apollo'>Apollo</a><br>
           &emsp;programming language for algorithmic and musical composition </p>
           <br>
 
-          <p><a target="_blank" href='http://dzoor.com/'>Dzoor</a><br>
-          &emsp;crowd sourced humorous mistranslations from Enlish to Armenian </p>
+          <p><a target="_blank" href='https://vortan.github.io/'>Vortan</a><br>
+          &emsp;open-source project aiming to boost the online and digital presence of the Armenian language </p>
           <br>
 
-          <p><a target="_blank" href='http://www.tumo.org/en/workshop/158-hack-the-tumo-fountain'>Hack the Fountain</a><br>
+          <p><a target="_blank" href='https://www.youtube.com/watch?v=xkMOcKaqu9U'>Hack the Fountain</a><br>
           &emsp;programming workshop at Tumo Yerevan</p>
           <br>
 
