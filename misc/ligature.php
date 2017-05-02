@@ -12,8 +12,9 @@
       <div id='content'>
         <div class='container'>
 
-          <p> In Armenia I noticed that stone engravings (mostly <a href="https://en.wikipedia.org/wiki/Khachkar">khatchkars</a>) cobined letters to save space. </p>
-          <p> Here are some made I crafted combining arial unicode. </p>
+          <p> In Armenia I noticed that stone engravings (mostly <a href="https://en.wikipedia.org/wiki/Khachkar">khatchkars</a>) combined letters to save space. <br>
+              Here are some I made by combining arial unicode.
+          </p>
           <br>
 
           <div class='img-container'>
