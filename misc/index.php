@@ -14,6 +14,7 @@
 
           <ul>
             <li><a href='http://xn--eo8h.ws/misc/sutlik.php'> Հովհաննես Թումանյան - Սուտլիկ Որսկանը </a></li>
+            <li><a href='http://xn--eo8h.ws/misc/ligature.php'> Armenian Typographic Ligature </a></li>
           </ul>
 
         </div>
